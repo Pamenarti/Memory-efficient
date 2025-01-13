@@ -1,1 +1,7 @@
 *.md text eol=crlf
+* text=auto
+*.txt text eol=crlf
+*.sh text eol=lf
+*.yaml text eol=lf
+*.yml text eol=lf
+*.dart text eol=lf
