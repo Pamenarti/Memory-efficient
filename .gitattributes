@@ -5,3 +5,5 @@
 *.yaml text eol=lf
 *.yml text eol=lf
 *.dart text eol=lf
+
+   * text=auto
